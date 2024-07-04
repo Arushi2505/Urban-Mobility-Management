@@ -41,7 +41,7 @@ To run this project, you need to have the following libraries installed:
 - For in-depth understanding of vehicle detection, refer to [Vehicle Detection GitHub Repository](https://github.com/MaryamBoneh/Vehicle-Detection).
 
 ## Contributors
-- [Sai Chiranthan H M, Abhishek B, Arushi Biswas, Deshmukh]
+- [Sai Chiranthan H M, Arushi Biswas, Abhishek B, Deshmukh]
 
 ## License
 [License information]
